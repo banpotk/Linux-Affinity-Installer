@@ -37,7 +37,7 @@ AffinityOnLinux provides an easy way to install and run Affinity Photo, Designer
 
 **New to Linux or want the easiest option?** Use the AppImage:
 
-1. Download the AppImage from [GitHub Releases](https://github.com/ryzendew/AffinityOnLinux/releases/tag/Affinity-wine-10.10-Appimage)
+1. Download the AppImage from [GitHub Releases](https://github.com/ryzendew/AffinityOnLinux/releases/latest)
 2. Make it executable: `chmod +x Affinity-3-x86_64.AppImage`
 3. Run it: `./Affinity-3-x86_64.AppImage`
 
