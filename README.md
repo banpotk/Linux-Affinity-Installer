@@ -1,11 +1,7 @@
 # AffinityOnLinux
 
-Work in the future will be stopped! Appimage is updated and loads of new fixes are merged.
-2 years ago i started my own project local Called Infinity Photo and 
-progress As of now all tools are finished with fastpath on both cpu and gpu
-Next step testing everything single tool and adding every setting so it feels right
+Here is my Own project! https://github.com/Event-Horizon-desktop-environment/pittore-studio/releases/tag/0.1.0 Feel free to test and report issues or features requests
 <img width="2560" height="1364" alt="image" src="https://github.com/user-attachments/assets/f70d4d0a-d2d6-4929-a166-7d832d66ba1f" />
-
 
 
 
